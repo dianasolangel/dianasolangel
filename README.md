@@ -1,4 +1,4 @@
-### Hi,I'm Sol👋
+### Hi, I'm Sol👋
 
 - 🎓 I’m currently a Master's student in the CSMI program.
 - 💡 I have a bachelor's degree in mathematics.
