@@ -1,6 +1,6 @@
 ### Hi, I'm Sol👋
 
-- 🎓 I’m currently a Master's student in the CSMI program.
+- 🎓 I’m currently a Master's degree graduate.
 - 💡 I have a bachelor's degree in mathematics.
 - 💻 I’m looking to advance my programming skills.
 - 🔭 I’m interested in science, engineering, astronomy.
